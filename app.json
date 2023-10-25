@@ -56,7 +56,7 @@
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"༒♧-𝐋𝐀 𝐕𝐎𝐒𝐓𝐈-☆༒;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"༒♧-𝐋𝐀 𝐕𝐎𝐒𝐓𝐈-☆༒; Lavosti001;https://i.imgur.com/YchATyT.jpeg"
         },
         "MODE": {
             "description": "Private or public",
